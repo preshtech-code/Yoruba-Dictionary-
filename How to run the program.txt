@@ -1,0 +1,9 @@
+How to run the program
+
+note: make sure you have your python program installed
+
+1. install the requirements.txt file using "pip install -r requirements.txt" and hit enter 
+
+2. Run your the app.py file using "streamlit run app.py" and hit enter
+
+3. The streamlit interface will come up and your program is up and running  
